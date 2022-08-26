@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zkrem56
 - 👀 I’m interested in Software Development / Front end Developement
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: zkremer702@gmail.com
 
